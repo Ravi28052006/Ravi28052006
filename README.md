@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ravi28052006.
 - 👀 I’m interested in developing new software application.
-- 🌱 I’m currently learning CSE With AI.
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on developing a software .
 - 📫 How to reach me ravis28052001@gmail.com
 - 😄 Pronouns: .he/him.
